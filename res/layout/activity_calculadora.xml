@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:text="ingrese un valor:" />
+        android:text="@string/msg_entrada" />
 
     <EditText
         android:id="@+id/et1"
@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_below="@+id/et1"
-        android:text="ingrese un valor:" />
+        android:text="@string/msg_entrada" />
 
     <EditText
         android:id="@+id/et2"
